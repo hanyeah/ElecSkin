@@ -1,0 +1,14 @@
+{
+  "name": "ElecSkin",
+  "main": "./lib/ElecSkin.js",
+  "version": "0.0.0",
+  "description": "Skin for 'ElectricCircuits'",
+  "typings": "./lib/ElecSkin.d.ts",
+  "author": "hanyeah <hanlidong@yeah.net> (http://hanyeah.com)",
+  "scripts": {
+    "start": "npm run build",
+    "build": "tsc-plus --reorderFiles"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
